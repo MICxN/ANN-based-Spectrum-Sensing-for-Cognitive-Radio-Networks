@@ -6,4 +6,6 @@ M. R. Vyas, D. K. Patel and M. Lopez-Benitez, "Artificial neural network based h
 
 If you use this simulation code package in any way, please cite the above original article.
 
-Copyright reserved by the authors: Maunil R. Vyas, Dhaval K. Patel and Miguel Lopez-Benitez
+Copyrights reserved by the authors: Maunil R. Vyas, Dhaval K. Patel and Miguel Lopez-Benitez
+
+Acknowledgment: This   work   was   supported   by   DST-UKIERI   Programme under the Grant DST/INT/UK/P-150/2016. The authors  also  thank  School of Engineering and Applied Science,  Ahmedabad  University  and University of Liverpool for the infrastructure support.
