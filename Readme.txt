@@ -1,4 +1,4 @@
-#ANN based Specreum Sensing [PIMRC-2017]
+#ANN based Spectrum Sensing [PIMRC-2017]
 
 This folder has a spectrum data (FM band) and a reproducable code for the following accepted paper @ PIMRC-2017. 
 
