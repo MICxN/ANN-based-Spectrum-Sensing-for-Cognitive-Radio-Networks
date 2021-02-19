@@ -2,7 +2,7 @@
 
 This folder has a spectrum data (FM band) and a reproducable code for the following accepted papers in Springer Wireless Networks-2020 and IEEE PIMRC-2017. 
 
-Patel, D.K., López-Benítez, M., Soni, B. et al. Artificial neural network design for improved spectrum sensing in cognitive radio. Wireless Netw 26, 6155–6174 (2020). https://doi.org/10.1007/s11276-020-02423-y (AND/OR)
+Patel, D.K., López-Benítez, M., Soni, B. et al. Artificial neural network design for improved spectrum sensing in cognitive radio. Wireless Netw 26, 6155–6174 (2020) (AND/OR)
 
 M. R. Vyas, D. K. Patel and M. Lopez-Benitez, "Artificial neural network based hybrid spectrum sensing scheme for cognitive radio," 2017 IEEE 28th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC), Montreal, QC, 2017, pp. 1-7
 
